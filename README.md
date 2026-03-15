@@ -1,6 +1,3 @@
-# Cracto Event Booking System
-
-A highly resilient, role-based backend system for managing events and customer bookings. Built with Node.js, TypeScript, Express, PostgreSQL, and Redis (BullMQ).
 
 ## 🏗 System Architecture
 
