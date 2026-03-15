@@ -84,7 +84,6 @@ curl -X POST http://localhost:3000/api/bookings \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer <CUSTOMER_TOKEN>" \
   -d '{
-    "customer_id": 1,
     "event_id": 1,
     "seats": 2
   }'
